@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  background-color: wheat;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+  font-size: 48px;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ul.recipes-list {
+ margin-left: 20%;
+}
+
+ul.recipes-list a {
+  font-family: monospace;
+  font-size: 22px;
+}
+
+ul.recipes-list a:link {
+  color: red;
+}
+
+ul.recipes-list a:hover {
+  color: yellow;
+}
+
